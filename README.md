@@ -1,5 +1,5 @@
 # CodeBees
-![](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=nagln's+views)
+![](https://komarev.com/ghpvc/?username=laxminagln/CodeBees&color=red&label=nagln's+views)
 
 Coder's Tinder
 
