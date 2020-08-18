@@ -31,4 +31,4 @@ function TinderCards() {
     </div>
   )
 }
-export default TinderCards
+export default TinderCards;
