@@ -10,7 +10,7 @@ function ChatScreen() {
       message: 'How u doin'
     },
     {
-      message: 'Wassup'
+      message: 'nothing'
     },
   ]);
   const handleSend = e => {
