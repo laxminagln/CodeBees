@@ -7,7 +7,7 @@ function ChatScreen() {
     {
       name: 'Laxnag',
       image: '...',
-      message: 'Whats up'
+      message: 'How u doin'
     },
     {
       message: 'Wassup'
