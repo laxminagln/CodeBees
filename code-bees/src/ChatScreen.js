@@ -5,7 +5,7 @@ function ChatScreen() {
   const [input,setInput] = useState([])
   const [messages, setMessages] = useState([
     {
-      name: 'Laxmi',
+      name: 'Laxnag',
       image: '...',
       message: 'Whats up'
     },
