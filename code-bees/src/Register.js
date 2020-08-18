@@ -9,7 +9,7 @@ function Register() {
         <input type="password" placeholder="Type your password..." className="login_password" />
         <div className="login_details">
         <input type="text" placeholder="Type your name..." className="login_name" />
-        <input type="text" placeholder="Type your GitHub Id" className="login_github" />
+        <input type="text" placeholder="Type your GitHub Id..." className="login_github" />
         </div>
         <div className="login_button">
           <button type="submit" className="login_buttonReg">Register</button>
