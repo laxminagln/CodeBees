@@ -7,7 +7,7 @@ import './App.css';
 import Chats from './Chats';
 import ChatScreen from './ChatScreen';
 
-function App() {
+function App() { //app function
   return (
     <div className="App">
       <Router>
@@ -31,4 +31,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; //exporting app
