@@ -6,7 +6,7 @@ import CommentIcon from '@material-ui/icons/Comment';
 import AdbIcon from '@material-ui/icons/Adb';
 import IconButton from '@material-ui/core/IconButton';
 import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
-function Header({ backButton }) {
+function Header({ backButton }) { //header function
   const history = useHistory();
   return (
     <div className="header">
@@ -34,4 +34,4 @@ function Header({ backButton }) {
     </div>
   )
 }
-export default Header
+export default Header //exporting header
